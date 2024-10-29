@@ -1,5 +1,6 @@
-# Main Project
+# Gesture Control for Presentation
 This project contains the model to perform the live and test mode for gesture recognition.
+Demonstration Video can be seen [here](https://youtu.be/TdlGVBEaN40?si=UFzzpnB8GzJFU4dC).
 
 # Gestures
 The following gestures are implemented and can be used to control a `reveal.js` slideshow.
