@@ -1,4 +1,4 @@
-# Gesture Control for Presentation
+# Machine Learning Video Gesture Recognition for Presentation Control
 This project contains the model to perform the live and test mode for gesture recognition. It uses the Machine Learning Framework developed by Melina Heinisch which can be seen [here](https://github.com/melina-heinisch/machine-learning-framework).
 
 Demonstration Video can be seen [here](https://youtu.be/TdlGVBEaN40?si=UFzzpnB8GzJFU4dC).
